@@ -8,6 +8,7 @@ https://ionmateus.github.io/cotucaflix/
 
 ## Dados
 * Tarefa de Desenvolvimento para Internet - Cotuca, março de 2023
+* Tempo utilizado: Aproximadamente 6 horas
 * Feito com HTML e CSS
 
 ## Imagens
@@ -25,3 +26,6 @@ Créditos <br>  <br>  <br>
 
 <img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/grade.png"/>
 Grade de filmes <br>  <br>  <br>
+
+## Créditos
+<p>Todas as imagens e outros recursos usados estão mencionados dentro do site.</p>
