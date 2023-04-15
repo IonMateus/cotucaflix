@@ -7,7 +7,7 @@ https://ionmateus.github.io/cotucaflix/
 <p>Site de filmes "Cotucaflix". Site inventado para tarefa.</p>
 
 ## Dados
-* Tarefa de Desenvolvimento para Internet - Cotuca 2023
+* Tarefa de Desenvolvimento para Internet - Cotuca, março de 2023
 * Feito com HTML e CSS
 
 ## Imagens
