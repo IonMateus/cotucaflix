@@ -1,30 +1,50 @@
-# Cotucaflix
+# 🎬 Cotucaflix  
 
-## Links
-https://ionmateus.github.io/cotucaflix/
+🔗 **Acesse online:** [ionmateus.github.io/cotucaflix](https://ionmateus.github.io/cotucaflix/)  
 
-## Descrição
-<p>Site de filmes "Cotucaflix". Site criado como uma tarefa.</p>
+---
 
-## Dados
-* Tarefa da matéria de 'Desenvolvimento para Internet' - Cotuca, março de 2023
-* Feito com HTML e CSS
+## 🌟 Descrição  
+**Cotucaflix** é um site de filmes criado como **tarefa acadêmica** para a matéria de *Desenvolvimento para Internet* no Cotuca (março de 2023).  
+O projeto utiliza **HTML e CSS** para estruturar e estilizar o conteúdo, incluindo catálogo, grade de filmes e créditos.  
 
-## Imagens
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/home.png"/> 
-Home <br> <br>  <br>
+---
 
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/rodape.png"/>
-Rodapé <br>  <br>  <br>
+## 🛠️ Dados do Projeto  
+- Matéria: Desenvolvimento para Internet – Cotuca  
+- Data: Março de 2023  
+- Tecnologias: **HTML, CSS**  
 
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/catalogo.png"/>
-Catálogo de filmes <br>  <br>  <br>
+---
 
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/creditos.png"/>
-Créditos <br>  <br>  <br>
+## 📸 Imagens  
 
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/grade.png"/>
-Grade de filmes <br>  <br>  <br>
+### 🏠 Home  
+<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/home.png"/>  
 
-## Créditos
-<p>Todas as imagens e outros recursos usados estão mencionados dentro do site.</p>
+---
+
+### ⚙️ Rodapé  
+<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/rodape.png"/>  
+
+---
+
+### 🎞️ Catálogo de filmes  
+<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/catalogo.png"/>  
+
+---
+
+### 📝 Créditos  
+<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/creditos.png"/>  
+
+---
+
+### 🎬 Grade de filmes  
+<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/grade.png"/>  
+
+---
+
+## 📌 Observações  
+Todos os **recursos e imagens** utilizados estão devidamente mencionados dentro do site.  
+
+💡 Um projeto simples, mas funcional, focado em prática acadêmica e apresentação de conteúdo visual.
